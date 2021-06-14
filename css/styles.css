@@ -1,0 +1,62 @@
+.div1 {
+  background-color: #303841;
+  height: 500px;
+  margin: 0;
+}
+body {
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  color: white;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 50px;
+}
+.img1 {
+  margin: 50px;
+  width: 300px;
+}
+.div2 {
+  margin: 0;
+  background-color: #00adb5;
+  height: 500px;
+}
+h2 {
+  font-family: 'Sacramento', sans-serif;
+  margin: 0;
+  padding: 80px;
+  font-size: 100px;
+  color: white;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+.div3 {
+  background-color: #eeeeee;
+  height: 500px;
+  position: relative;
+}
+.div4 {
+  background-color: #ff5722;
+  height: 500px;
+  font-family: 'Montserrat', sans-serif;
+  color: #eeeeee;
+  font-size: 100px;
+  padding: 200px;
+}
+.cake1 {
+  width: 400px;
+  margin-top: 50px;
+  position: absolute;
+  left: 200px;
+}
+.fun {
+  color: #303841;
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  right: 200px;
+  top: 100px;
+}
